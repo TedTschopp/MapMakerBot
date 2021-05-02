@@ -1,0 +1,72 @@
+{
+     "U4Images":["<img src='https://www.tedt.org/RPG/images/U4/32x32x24/shapes-assets/"],
+
+     "plainEmoji":["🟩"],
+     "plainUnicode":["－"],
+     "plain":["#U4Images#004_grass.png'>"],
+
+     "scrubEmoji":["🌳"],
+     "scrubUnicode":["⋅"],
+     "scrub":["#U4Images#005_scrub.png'>"],
+
+     "forestEmoji":["🌲"],
+     "forestUnicode":["∷"],
+     "forest":["#U4Images#006_forest.png'>"],
+
+
+     "roughEmoji":["🟫"],
+     "roughUnicode":["∸"],
+     "rough":["#U4Images#055_rocks.png'>"],
+     
+
+     "desertEmoji":["🌵","🏜️"],
+     "desertUnicode":["_"],
+     "desert":["#U4Images#257_desert.png'>"],
+
+     "hillsEmoji":["🪨"],
+     "hillsUnicode":["◠"],
+     "hills":["#U4Images#007_hill.png'>"],
+
+     "mountainsEmoji":["⛰️","⛰️","⛰️","🏔️","🏔️","🏔️","🌋","🗻"],
+     "mountainsUnicode":["△"],
+     "mountains":["#U4Images#008_mountain.png'>"],
+
+     "marshEmoji":["🌾"],
+     "marshUnicode":["⏔"],
+     "marsh":["#U4Images#003_swamp.png'>"],
+
+     "pondEmoji":["🟦"],
+     "pondUnicode":["⏖"],
+     "pond":["#U4Images#002_shallow_water.png'>"],
+
+     "depressionEmoji":["💀","👻","☠️","👹","👺","🐲","🧙‍♂️","🦄","🗿","🏛️","🛖","🏘️","⛺","⚓","🏰","🏯"],
+     "depressionUnicode":["x"],
+     "depression":["#U4Images#009_dungeon.png'>"],
+     
+     "tavernEmoji":["🍻","🍺","🎶🍻","🎶🍺","🎻🎶🍻","🎻🎶🍺","🎺🎶🍻","🎺🎶🍺"],
+     "tavernUnicode":["🍻"],
+     "tavern":["#U4Images#012_village.png'>"],
+
+
+     "Realrandom":["plain","scrub","forest","rough","desert","hills","mountains","marsh"],
+     "random":["plain"],
+
+
+     "Splain":["#plain##Splain#","#plain##Splain#","#plain##Splain#","#plain##Splain#","#plain##Splain#","#plain##Splain#","#plain##Splain#","#plain##Splain#","#plain##Splain#","#plain##Splain#", "#scrub##Sscrub#", "#forest##Sforest#", "#rough##Srough#", "#desert##Sdesert#", "#hills##Shills#", "#mountains##Smountains#", "#marsh##Smarsh#", "#pond##Splain#", "#depression#"],
+     "Sscrub":["#plain##Splain#","#plain##Splain#","#plain##Splain#", "#scrub##Sscrub#","#scrub##Sscrub#","#scrub##Sscrub#","#scrub##Sscrub#","#scrub##Sscrub#","#scrub##Sscrub#","#scrub##Sscrub#","#scrub##Sscrub#", "#forest##Sforest#","#forest##Sforest#", "#rough##Srough#", "#desert##Sdesert#", "#hills##Shills#", "#mountains##Smountains#", "#marsh##Smarsh#", "#pond##Sscrub#", "#depression#"],
+     "Sforest":["#plain##Splain#", "#scrub##Sscrub#","#scrub##Sscrub#","#scrub##Sscrub#", "#forest##Sforest#","#forest##Sforest#","#forest##Sforest#","#forest##Sforest#","#forest##Sforest#","#forest##Sforest#","#forest##Sforest#","#forest##Sforest#","#forest##Sforest#","#forest##Sforest#", "#rough##Srough#", "#hills##Shills#", "#mountains##Smountains#", "#marsh##Smarsh#", "#pond##Sforest#", "#depression#"],
+     "Srough":["#plain##Splain#","#plain##Splain#", "#scrub##Sscrub#","#scrub##Sscrub#", "#forest##Sforest#", "#rough##Srough#","#rough##Srough#","#rough##Srough#", "#desert##Sdesert#","#desert##Sdesert#", "#hills##Shills#","#hills##Shills#","#hills##Shills#","#hills##Shills#","#hills##Shills#", "#mountains##Smountains#","#mountains##Smountains#", "#marsh##Smarsh#", "#pond##Srough#", "#depression#"],
+     "Sdesert":["#plain##Splain#","#plain##Splain#","#plain##Splain#", "#scrub##Sscrub#","#scrub##Sscrub#","#rough##Srough#","#rough##Srough#","#rough##Srough#", "#desert##Sdesert#","#desert##Sdesert#","#desert##Sdesert#","#desert##Sdesert#","#desert##Sdesert#","#desert##Sdesert#", "#hills##Shills#", "#mountains##Smountains#","#mountains##Smountains#", "#marsh##Smarsh#", "#pond##Sdesert#", "#depression#"],
+     "Shills":["#plain##Splain#", "#scrub##Sscrub#","#scrub##Sscrub#", "#forest##Sforest#","#forest##Sforest#", "#rough##Srough#","#rough##Srough#", "#desert##Sdesert#", "#hills##Shills#","#hills##Shills#","#hills##Shills#","#hills##Shills#","#hills##Shills#","#hills##Shills#", "#mountains##Smountains#","#mountains##Smountains#", "#marsh##Smarsh#", "#pond##Shills#","#pond##Shills#", "#depression#"],
+     "Smountains":["#plain##Splain#", "#scrub##Sscrub#", "#forest##Sforest#", "#rough##Srough#","#rough##Srough#", "#desert##Sdesert#", "#hills##Shills#","#hills##Shills#","#hills##Shills#","#hills##Shills#", "#mountains##Smountains#","#mountains##Smountains#","#mountains##Smountains#","#mountains##Smountains#","#mountains##Smountains#","#mountains##Smountains#","#mountains##Smountains#","#mountains##Smountains#","#pond##Smountains#", "#depression#"],
+     "Smarsh":["#plain##Splain#","#plain##Splain#", "#scrub##Sscrub#","#scrub##Sscrub#", "#forest##Sforest#","#forest##Sforest#", "#rough##Srough#","#hills##Shills#","#marsh##Smarsh#","#marsh##Smarsh#","#marsh##Smarsh#","#marsh##Smarsh#","#marsh##Smarsh#","#marsh##Smarsh#","#marsh##Smarsh#", "#pond##Smarsh#","#pond##Smarsh#","#pond##Smarsh#","#pond##Smarsh#", "#depression#"],
+
+     "plainplain":["#Splain#"],
+     "plainplainplainplain":["#Splain#"],
+
+     "map":["b2 - #b2#c2 - #c2#d2 - #d2#<br>b3 - #b3#c3 - #c3#d3 - #d3#<br>b4 - #b4#c4 - #c4#d4 - #d4#<br>"],
+
+     "calculate":["[b2:#random#][b4:#random#][d2:#random#][d4:#random#][c2:#b2##d2#][b3:#b2##b4#][d3:#d2##d4#][c4:#b4##d4#][c3:#c2##c4##b3##d3]"],
+
+     "origin":["Generate a map using Gary Gygax's Map making tables from the AD&D DMG Appendix: <br>1D map <br> #tavern##Splain#<br> 2D <br>#calculate# -  #map#"]
+}
