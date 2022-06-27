@@ -68,5 +68,12 @@
 
      "calculate":["[b2:#random#][b4:#random#][d2:#random#][d4:#random#][c2:#b2##d2#][b3:#b2##b4#][d3:#d2##d4#][c4:#b4##d4#][c3:#c2##c4##b3##d3]"],
 
-     "origin":["Generate a map using Gary Gygax's Map making tables from the AD&D DMG Appendix: <br>1D map <br> #tavern##Splain#<br> 2D <br>#calculate# -  #map#"]
+	"name": ["Cheri","Fox","Morgana","Jedoo","Brick","Shadow","Krox","Urga","Zelph"],
+	"story": ["#hero.capitalize# was a great #occupation#, and this song tells of #heroTheir# adventure. #hero.capitalize# #didStuff#, then #heroThey# #didStuff#, then #heroThey# went home to read a book."],
+	"monster": ["dragon","ogre","witch","wizard","goblin","golem","giant","sphinx","warlord"],
+	"setHeroOccupation": ["[occupation:baker][didStuff:baked bread,decorated cupcakes,folded dough,made croissants,iced a cake]","[occupation:warrior][didStuff:fought #monster.a#,saved a village from #monster.a#,battled #monster.a#,defeated #monster.a#]"],
+	"setHeroPronouns": ["[heroThey:they][heroThem:them][heroTheir:their][heroTheirs:theirs]","[heroThey:she][heroThem:her][heroTheir:her][heroTheirs:hers]","[heroThey:he][heroThem:him][heroTheir:his][heroTheirs:his]"],
+
+
+     "origin":["Generate a map using Gary Gygax's Map making tables from the AD&D DMG Appendix: <br>1D map <br> #tavern##Splain#<br> 2D <br> #[setPronouns:#setHeroPronouns#][setOccupation:#setHeroOccupation#][hero:#name#]story# br  #calculate# -  #map#"]
 }
